@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Group!!");
             Console.WriteLine("Hej! /D");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, People!");
@@ -12,24 +12,16 @@
             Console.WriteLine("Hello, Banana!");
             Console.WriteLine("Hello, World!");
 
-
-
             Console.WriteLine("Hello, Pie Palace!");
 
-
-            Console.WriteLine("Hello, World!"); Console.WriteLine("Hello, World!");
-
-
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
 
             Console.WriteLine("Hello, World!");
 
-
-
             Console.WriteLine("Hello, World!");
 
-
             Console.WriteLine("Hello, World!");
-
 
             Console.WriteLine("Hello, Stuff and Things!");
             Console.WriteLine("Hello, All!");
