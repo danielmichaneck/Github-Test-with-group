@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("On Maxs brnach");
             Console.WriteLine("Bring me pancakes!");
             Console.WriteLine("Hej! /D");
             Console.WriteLine("Hello, People!");
