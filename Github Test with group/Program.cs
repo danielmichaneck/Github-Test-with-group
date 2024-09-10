@@ -4,33 +4,24 @@
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Bring me pancakes!, test test");
+
+            System.Console.WriteLine("On Maxs brnach");
+            Console.WriteLine("Bring me pancakes!");
+
             Console.WriteLine("Hej! /D");
-            Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, People!");
-            Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, Banana!");
-            Console.WriteLine("Hello, World!");
+
 
             console.WriteLine("hellow again from kerry branch");
 
 
+
+
+
             Console.WriteLine("Hello, Pie Palace!");
-
-
-            Console.WriteLine("Hello, World!"); Console.WriteLine("Hello, World!");
-
-
-
-            Console.WriteLine("Hello, World!");
-
-
-
-            Console.WriteLine("Hello, World!");
-
-
-            Console.WriteLine("Hello, World!");
-
 
             Console.WriteLine("Hello, Stuff and Things!");
             Console.WriteLine("Hello, All!");
