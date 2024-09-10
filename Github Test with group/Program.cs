@@ -5,6 +5,31 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, People!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Banana!");
+            Console.WriteLine("Hello, World!");
+
+
+
+            Console.WriteLine("Hello, Pie Palace!");
+
+
+            Console.WriteLine("Hello, World!"); Console.WriteLine("Hello, World!");
+
+
+
+            Console.WriteLine("Hello, World!");
+
+
+
+            Console.WriteLine("Hello, World!");
+
+
+            Console.WriteLine("Hello, World!");
+
+
+            Console.WriteLine("Hello, Stuff and Things!");
         }
     }
 }
