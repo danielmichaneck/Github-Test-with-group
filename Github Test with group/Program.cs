@@ -12,6 +12,10 @@
             Console.WriteLine("Hello, Banana!");
             Console.WriteLine("Hello, World!");
 
+            ConflictClass argument = new ConflictClass();
+            argument.FightingWords = "I like Star Wars VIII.";
+            Console.WriteLine(argument.FightingWords);
+
 
 
             Console.WriteLine("Hello, Pie Palace!");
